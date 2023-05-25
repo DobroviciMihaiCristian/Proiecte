@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685035682 source:g:\incercare proiect 1\cnp\date.in.c
+
+1685035700 source:g:\incercare proiect 1\cnp\date.out.c
+
+1685036380 source:g:\incercare proiect 1\cnp\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
